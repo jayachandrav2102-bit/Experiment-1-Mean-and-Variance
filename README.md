@@ -46,6 +46,7 @@ It is calculated as:
 
 
 # Program: 
+~~~
 Name: v jayachandra
 Reg no: 25017587
 Slot:3P1-1
@@ -89,7 +90,7 @@ print(f"The Variance of arrival from feeder is {var:.3f}")
 print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
 
 -----------------
-
+~~~
 
 
 
