@@ -90,6 +90,7 @@ print(f"The Variance of arrival from feeder is {var:.3f}")
 print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
 
 -----------------
+https://colab.research.google.com/drive/1bws4FkqjAneFLF7-qKbfgrexYE4i24Fn?usp=sharing
 ~~~
 
 
@@ -103,7 +104,7 @@ The Variance of arrival from feeder is 1.188
 The Standard deviation of arrival from feeder is 1.090
 
 
-https://colab.research.google.com/drive/1bws4FkqjAneFLF7-qKbfgrexYE4i24Fn?usp=sharing
+
 # Result: 
 	The mean and variance of arrivals of objects from feeder using probability distribution are calculated. 
 
